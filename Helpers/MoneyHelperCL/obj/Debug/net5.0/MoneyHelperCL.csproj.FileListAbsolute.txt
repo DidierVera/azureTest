@@ -1,0 +1,12 @@
+C:\Users\Didier Vera\source\repos\Helpers\MoneyHelperCL\bin\Debug\net5.0\MoneyHelperCL.deps.json
+C:\Users\Didier Vera\source\repos\Helpers\MoneyHelperCL\bin\Debug\net5.0\MoneyHelperCL.dll
+C:\Users\Didier Vera\source\repos\Helpers\MoneyHelperCL\bin\Debug\net5.0\ref\MoneyHelperCL.dll
+C:\Users\Didier Vera\source\repos\Helpers\MoneyHelperCL\bin\Debug\net5.0\MoneyHelperCL.pdb
+C:\Users\Didier Vera\source\repos\Helpers\MoneyHelperCL\obj\Debug\net5.0\MoneyHelperCL.csproj.AssemblyReference.cache
+C:\Users\Didier Vera\source\repos\Helpers\MoneyHelperCL\obj\Debug\net5.0\MoneyHelperCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Didier Vera\source\repos\Helpers\MoneyHelperCL\obj\Debug\net5.0\MoneyHelperCL.AssemblyInfoInputs.cache
+C:\Users\Didier Vera\source\repos\Helpers\MoneyHelperCL\obj\Debug\net5.0\MoneyHelperCL.AssemblyInfo.cs
+C:\Users\Didier Vera\source\repos\Helpers\MoneyHelperCL\obj\Debug\net5.0\MoneyHelperCL.csproj.CoreCompileInputs.cache
+C:\Users\Didier Vera\source\repos\Helpers\MoneyHelperCL\obj\Debug\net5.0\MoneyHelperCL.dll
+C:\Users\Didier Vera\source\repos\Helpers\MoneyHelperCL\obj\Debug\net5.0\ref\MoneyHelperCL.dll
+C:\Users\Didier Vera\source\repos\Helpers\MoneyHelperCL\obj\Debug\net5.0\MoneyHelperCL.pdb
