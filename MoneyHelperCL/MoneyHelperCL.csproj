@@ -8,6 +8,9 @@
     <PackageId>MoneyHelperPackageTest</PackageId>
     <Description>paquete sencillo para darle formato numérico a un string</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>no tiene</Copyright>
+    <RepositoryUrl>https://github.com/DidierVera/azureTest</RepositoryUrl>
+    <RepositoryType>git private</RepositoryType>
   </PropertyGroup>
 
 </Project>
